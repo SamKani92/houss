@@ -16,10 +16,10 @@
 						<a class="nav-link" href="#">About</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Recipes</a>
+						<a class="nav-link" href="#">Programs</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Programs</a>
+						<a class="nav-link" href="#">Recipes</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#">BMI/BMR Calculator</a>
